@@ -1,0 +1,12 @@
+# Core AI and Graph framework
+langgraph
+langchain
+
+# To connect to Google's Gemini models
+langchain-google-genai
+
+# For the user interface (to run and test your agent)
+streamlit
+
+# To manage your API keys (like your GOOGLE_API_KEY)
+python-dotenv

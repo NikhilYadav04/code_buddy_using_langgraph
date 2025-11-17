@@ -1,5 +1,9 @@
 # 🤖 Code Buddy
 
+<a href="https://youtu.be/xMzM7ALoqFM?si=CMMp04ZxMoH5_GJJ" title="YouTube Overview">
+  <img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" />
+</a>
+
 Your AI partner for turning ideas into web applications. Code Buddy is an intelligent AI agent that takes natural language descriptions and generates complete, working web applications with HTML, CSS, and JavaScript.
 
 ## ✨ Features
